@@ -1,0 +1,23 @@
+{
+  "name": "unitytestproject",
+  "version": "1.0.0",
+  "description": "UnityTestProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rida-Abid/UnityTestProject.git"
+  },
+  "author": "Rida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rida-Abid/UnityTestProject/issues"
+  },
+  "homepage": "https://github.com/Rida-Abid/UnityTestProject#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4"
+  }
+}
